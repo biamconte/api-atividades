@@ -63,6 +63,4 @@ def exclui_pessoa():
 
 if __name__ == '__main__':
     init_db()
-    insere_pessoas()
-    altera_pessoa()
-    consulta()
+    
